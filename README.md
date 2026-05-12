@@ -25,8 +25,7 @@
 |:---:|:---:|:---:|
 | 享受一个人沉浸的世界 | 追番是灵魂的补给 | **打劫的联系我！** 🥺👉👈 |
 
-> 🎯 如果你也打 **Naraka**，**别犹豫，直接联系我**——我在期待脸.jpg地等你 🤩
-
+> 🎯 如果你也打 **Naraka**，**请联系我**——我在🤩等你 
 ---
 
 ### 🛠️ 技术方向
@@ -45,7 +44,7 @@
 </p>
 
 ---
-
+<!-- 
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -53,7 +52,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mingadmirer&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </div>
 
----
+--- -->
 
 ### 🐍 Contribution Snake
 
