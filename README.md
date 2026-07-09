@@ -3,7 +3,7 @@ Welcome !
 
 🐱[喵喵喵]
 
-'ip install mingadmirer '  to  get  help  ..  ...  ....
+'pip install mingadmirer '  to  get  help  ..  ...  ....
 
 
 ```
